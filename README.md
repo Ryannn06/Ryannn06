@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on data analysis projects using Python and SQL
+- 🔭 I’m currently working on SQL and Python data projects
 - 🌱 I’m currently learning data analytics
 - 👯 I’m looking to collaborate on data projects and dashboards
-- 🤔 I’m looking for help with improving my data skills
+- 🤔 I’m looking for help with improving my tech skills
 - 💬 Ask me about creative and analytic ideas
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: meow meow 🐾
@@ -24,6 +24,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ryannn06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ryannn06&icon=6&color=1)](https://visitcount.itsvg.in)
