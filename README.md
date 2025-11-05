@@ -57,4 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
-![snake gif](https://github.com/Ryannn06/Ryannn06/blob/output/github-contribution-grid-snake.svg)
+<div align="left">
+  <img src="https://github.com/Ryannn06/Ryannn06/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+
+
+
