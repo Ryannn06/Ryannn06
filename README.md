@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gelo and I'm a data analyst/programmer from the Philippines</p>
+<p align="left">My name is Gelo, I'm a data analyst and programmer from the Philippines</p>
 
 ###
 
