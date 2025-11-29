@@ -32,7 +32,7 @@
 
 <p align="left">
   ✨ Creating bugs since my first line of Python code<br>
-  📚 I'm currently learning data analytics using Python, SQL, and BI Tool<br>
+  📚 I'm currently learning data analytics using Python, SQL, Snowflakes, and PowerBI w/DAX<br>
   🎯 Goals: to keep learning every day — even from mistakes<br>
   🎲 Fun fact: meow meow 🐾
 </p>
